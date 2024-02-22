@@ -10,6 +10,9 @@ body{
     align-items: center;
     background-color: rgb(225, 225, 171);
 }
+.hidden{
+    display:none;
+}
 .container{
     min-width:28vw;
     padding:20px;
